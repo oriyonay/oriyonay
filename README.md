@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oriyonay :)
-- 🌱 I’m a CS PhD student (deep learning & signal processing) at Texas A&M under Dr. Tracy Hammond
+- 🌱 I’m a CS PhD student (deep learning & signal processing) at Texas A&M under Dr. Tianbao Yang and Dr. Tracy Hammond
 - 👀 I’m interested in machine learning, computer chess, and music
 - 📫 How to reach me: oriyonay12@gmail.com / oyonay12@tamu.edu
 
