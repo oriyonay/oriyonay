@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @oriyonay :)
-- 🌱 I’m a CS PhD student (deep learning & music information retrieval) at Texas A&M under Dr. Tracy Hammond and Dr. Tianbao Yang
+Hi there, I’m Ori :)
+
+- 🌱 I’m a CS PhD candidate studying MIR at Texas A&M under Dr. Tracy Hammond and Dr. Tianbao Yang
 - 👀 I’m interested in machine learning, computer chess, and music
 - 📫 How to reach me: oriyonay12@gmail.com / oyonay12@tamu.edu
 
-Have a fantastic rest of your day :)
+Do something meaningful.
 
 <!---
 oriyonay/oriyonay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
